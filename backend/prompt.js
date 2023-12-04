@@ -8,7 +8,7 @@ BPM:sample BPM
 
 
 `
-//Data that had been used for the LLM answers, not in usage anymore
+//Data that had been used for the LLM answers training, not in usage anymore
 // const formatstring = `**Mood: Lazy**
 
 // * Album: Pet Sounds
