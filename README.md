@@ -11,7 +11,7 @@ Future modifications will include Chron-Job integrations to schedule mails sent 
 
 To use on your own, you must first create a serverless firebase document that contains a bunch of test emails, and then clone the repo. Then, install all dependencies using npm i. 
 Then, run "node index.js" to start a chain of execution
-
+entry point: "index.js"
 all functions have been timed since all are asynchronous. 
 The sequence of executions:
 1) reading all emails from the Firebase document
