@@ -1,5 +1,8 @@
 
-# Espy Backend
+# Espy-Backend
+
+<img src="https://github.com/thankyoufortherecongnitionchair/espy_backend/assets/77891681/72ba3f82-2434-4fa8-9297-64a697b6a2e5"  height="150" width="150">
+
 
 
 It's a daily mailing list that sends users reviews scraped from across the internet, including popular websites like Pitchfork, Consequence of Sound, Guardian, etc. 
